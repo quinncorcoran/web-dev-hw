@@ -1,0 +1,9 @@
+Quinn Corcoran
+
+The internet is like like infastructure of the network. The web is more like the exchange of the information across the networks. Kind of like, my computer is part of the network and sends iformation to other networks through the web.
+
+People acess the internet through internet service pproviders. The internet is basically just a wire in the ground. The wries are made of fiber optic cable mostly and they connect people using the internet to servers that contain the information on the internet. Every device has a unique IP adress that is used a little bit like a mail adress.
+
+A directory is used to organize files and find them later. It's a computer book keeping thing. It helps users find files, sometimes by searching.
+
+Creating software without VCS is risky. VCS stands for version control system and without it, you could really screw your software up. If youre changing a bunch of stuff, with VCS, when you mess up and all your stuff stops working, you can simply go back to a version of it before you screwed up. 
