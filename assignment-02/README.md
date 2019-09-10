@@ -5,4 +5,4 @@
 
 [My Responses](./responses.txt)
 
-[My Screenshot](./screenshot.PNG)
+[My Screenshot](./images/screenshot.PNG)
