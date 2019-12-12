@@ -1,47 +1,26 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700&display=swap');
-{font-family: 'Open Sans Condensed', sans-serif, 'roboto';
+body {
+  background-color: #3FB0AC;
 }
-@import url('https://fonts.googleapis.com/css?family=League+Script&display=swap');
-{font-family: 'League Script', cursive, 'roboto';
+.text {
+   font-size: 32pt;
+   font-family: 'always forever' Trebuchet, Verdana, sans-serif;
+   color: #173E43;
+   text-align: center !important;
+   font-kerning: auto;
 }
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
-{font-family: 'Roboto', sans-serif;
+.text p:first-child::first-letter {
+   font-family: 'Kumar One Outline', cursive;
+   font-size: 2.5em;
+   font-weight: bold;
+.text-2 {
+   font-size: 50%;
+   font-family: 'hammer_keys'Trebuchet, Verdana, sans-serif;
 }
-<style>
-    .background-color: lightyellow;
-  }
-  .half-size {
-    width: 70%;
-  }
-  .middle {
-    margin: auto;
-  }
-  .padded {
-      padding: 10px;
-  }
-  .page-title {
-    text-align: center;
-  }
-  .more-info {
-    background: #F0A818;
-    border: 1px solid #48A830;
-    position: absolute;
-    text color: #0090A8;
-    font-size: 1.5em;
+   color:'#173E43';
+   text-align: center !important;
 }
-a:link {
-   color: #79AF33;
-   text-decoration: none;
+.text-3 {
+  font-size: 35%;
+  font-family: 'hammer_keys' Trebuchet, Verdana, sans-serif;
+  text-align: right !important;
 }
-
-a:visited {
-   color: #777;
-   text-decoration: none;
-}
-
-a:hover {
-   color: #1CCDCA;
-   font-style: italic;
-}
-  }
-  </style>
