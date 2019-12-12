@@ -1,6 +1,6 @@
 *{
-  margin: 0px;
-  /*background-color: #CCFFCC;*/
+  margin: 10px;
+  /*background-color: red*/
 }
 html{
 height:100%;
@@ -9,14 +9,14 @@ width:100%;
 body{
 height:100%;
 width:100%;
-background-color: #004d00;
+background-color: #FF70CB;
 }
 .top{
   background-color: #008000;
   padding: auto;
   height:15%;
   width: 100%;
-  border-bottom: dotted;
+  border-bottom: solid;
   border-color: #CCFFCC;
   border-width: thick;
   border-spacing: 40px;
@@ -25,31 +25,32 @@ background-color: #004d00;
 
 .title{
   background-color: #008000;
-  text-align: center;
-  color: white;
+  text-align: left;
+  color: pink;
   width: 100%;
   height:40%;
   margin:auto;
   font-size: 50px;
   padding-top:40px;
   /*padding-bottom:5px;*/
-  text-decoration: underline;
-  text-decoration-color: #CCFFCC;
-  font-family: serif;
+  text-decoration: italic;
+  text-decoration-color: red;
+  font-family: sans-serif;
   margin-bottom: 0px;
   margin-top: 0px;
+  text-shadow: blue;
 }
 .subtitle{
   background-color: #008000;
-  text-align: center;
-  color: white;
+  text-align: left;
+  color: red;
   width: 100%;
   height:20%;
   margin:auto;
   font-size: 25px;
   /*padding-bottom:5px;*/
-  text-decoration: underline;
-  text-decoration-color: #CCFFCC;
+  text-decoration: inherit;
+  text-decoration-color: pink;
   font-family: serif;
   margin-bottom: 0px;
   margin-top: 0px;
@@ -59,16 +60,16 @@ background-color: #004d00;
   text-align: center;
   width:100%;
   height: 100%;
-  box-sizing: border-box;
-  border-color: #008000;
+  box-sizing: content-box;
+  border-color: #FF70CB;
 }
 
 .nav{
   float: left;
-  background-color: #004d00;
-  border-top: dotted;
-  border-right: dotted;
-  border-color: #CCFFCC;
+  background-color: #FF70CB;
+  border-top: solid;
+  border-right: solid;
+  border-color: #pink;
   font-size: 18px;
   height:100%;
   min-height: 100%;
@@ -79,65 +80,65 @@ background-color: #004d00;
 .contact {
   margin:auto;
   /*padding-left: 50px;*/
-  background-color: #004d00;
-  margin-top: 15%;
-  margin-left: 3%;
+  background-color: pink;
+  margin-top: 25%;
+  margin-left: 10%;
 
 }
-.home {
+.WATERMELON{
   /*text-align: center;*/
   margin: auto;
   background-color: #004d00;
-  margin-top: 15%;
-  margin-left: 3%;
+  margin-top: 25%;
+  margin-left: 10%;
   color:white;
 }
-.mustlist{
+.WATERMELON{
   margin: auto;
-  background-color: #004d00;
-  margin-top: 15%;
-  margin-left: 3%;
+  background-color: #FF70CB;
+  margin-top: 25%;
+  margin-left: 10%;
 }
-.wantlist{
+.WATERMELON{
   margin: auto;
-  background-color: #004d00;
-  margin-top: 15%;
-  margin-left: 3%;
+  background-color: #FFE400;
+  margin-top: 25%;
+  margin-left: 10%;
 }
-.moreinfo {
+.WATERMELON {
   margin:auto;
-  background-color: #004d00;
-  margin-top: 15%;
-  margin-left: 3%;
+  background-color: #FFE400;
+  margin-top: 25%;
+  margin-left: 10%;
 }
 a{
-  color:white;
+  color:black;
   text-decoration: none;
-  font-family: monospace;
+  font-family: sans-serif;
 }
 h2{
-  color: white;
+  color: black;
   text-decoration: none;
-  font-family: monospace;
+  font-family: sans-serif;
 }
 button{
   text-decoration: none;
-  font-family: monospace;
+  font-family: sans-serif;
 }
 h2:hover{
-  color: #CCFFCC;
+  color: #CCFFCF;
 }
 a:hover{
-  color: #CCFFCC;
+  color: #FCF3CF40;
 }
 
 .content{
   width: 85%;
   margin-left: 15.2%;
-  background-color: #CCFFCC;
+  background-color: #CCFFCF;
   border-top: dashed;
   border-left: dashed;
-  border-color: #006666;
+  border-color: #007777;
 }
 
   .contenthome{
