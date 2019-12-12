@@ -1,0 +1,23 @@
+body {
+
+  text-color: #C281E3;
+  padding: 5px;
+  border: 0px solid #C281E3;
+}
+.main-container {
+  main-containter-align: center;
+  text-align: center;
+  background: #C281E3;
+  border: 5px solid #C281E3;
+  background-opacity: 0.75;
+  position: absolute;
+  text-color: #C281E3;
+}
+.color-text{
+ color: rgb(0,51,52);
+}
+.secondary-container {
+  align:center;
+  border: 20px solid #C281E3;
+  /*Curt was really cool and I miss him.*/
+}

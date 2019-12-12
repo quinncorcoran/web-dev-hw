@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700&display=swap');
+{font-family: 'Open Sans Condensed', sans-serif, 'roboto';
+}
+@import url('https://fonts.googleapis.com/css?family=League+Script&display=swap');
+{font-family: 'League Script', cursive, 'roboto';
+}
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+{font-family: 'Roboto', sans-serif;
+}
+<style>
+    .background-color: lightyellow;
+  }
+  .half-size {
+    width: 70%;
+  }
+  .middle {
+    margin: auto;
+  }
+  .padded {
+      padding: 10px;
+  }
+  .page-title {
+    text-align: center;
+  }
+  .more-info {
+    background: #F0A818;
+    border: 1px solid #48A830;
+    position: absolute;
+    text color: #0090A8;
+    font-size: 1.5em;
+}
+a:link {
+   color: #79AF33;
+   text-decoration: none;
+}
+
+a:visited {
+   color: #777;
+   text-decoration: none;
+}
+
+a:hover {
+   color: #1CCDCA;
+   font-style: italic;
+}
+  }
+  </style>
