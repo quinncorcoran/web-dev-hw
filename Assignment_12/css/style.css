@@ -1,0 +1,177 @@
+*{
+  margin: 10px;
+  /*background-color: #F1C40F;*/
+}
+html{
+height:100%;
+width:100%;
+}
+body{
+height:100%;
+width:100%;
+}
+.top{
+  background-color: rgb(187, 143, 206);
+  padding: auto;
+  height:25%;
+  width: 100%;
+  border-bottom: solid;
+  border-color: #F1C40F;
+  border-width: thick;
+  border-spacing: 40px;
+}
+
+.title{
+  background-color: #F1C40F;
+  text-align: center;
+  color: red;
+  width:25%;
+  margin:auto;
+  font-size: 30px;
+  padding-top:40px;
+  padding-bottom:10px;
+  border-bottom: solid;
+  border-width: thick;
+  border-color: #CCFFCC;
+
+  font-variant: small-caps;
+  font-style: italic;
+
+}
+
+.main{
+  text-align: center;
+  width:100%;
+  height: 100%;
+  box-sizing: border-box;
+  border-color: #FCF3CF;
+
+}
+
+.nav{
+  float: left;
+  background-color: #FCF3CF;
+  border-top: solid;
+  border-right: solid;
+  border-color: #FCF3CF;
+  font-size: 12px;
+  height: 100%;
+  width:25%;
+  text-align: left;
+
+}
+.about {
+  margin:auto;
+  /*padding-left: 50px;*/
+  background-color: #FCF3CF;
+  margin-top: 15%;
+  margin-left: 3%;
+  color: black;
+  font-variant: small-caps;
+  font-style: italic;
+}
+.home {
+  /*text-align: center;*/
+  margin: auto;
+  background-color: #FCF3CF;
+  margin-top: 25%;
+  margin-left: 5%;
+  color:black;
+  font-variant: small-caps;
+  font-style: italic;
+}
+.about{
+  margin: auto;
+  background-color: #FCF3CF;
+  margin-top: 25%;
+  margin-left: 5%;
+  font-variant: small-caps;
+  font-style: italic;
+}
+.What_up_Quinn{
+  margin:auto;
+  background-color: #FCF3CF;
+  margin-top: 25%;
+  margin-left: 5%;
+  color: black;
+
+}
+a{
+  color:black;
+  text-decoration: none;
+  font-family: monospace;
+}
+h2{
+  color: black;
+  text-decoration: none;
+  font-family: monospace;
+}
+button{
+  text-decoration: none;
+  font-family: sans-serif;
+}
+h2:hover{
+  color: #CCFFCC;
+}
+a:hover{
+  color: #CCFFCC;
+}
+
+.What_it_do_tho{
+  width: 85%;
+  height: 100%;
+  margin-left: 15.2%;
+  background-color: #E59866;
+  border-top: solid;
+  border-left: solid;
+  border-color: #FCF3CF;
+  color: black;
+  font-variant: small-caps;
+  font-style: italic;
+}
+.pclass{
+  display: block;
+}
+.drop{
+  display: inline-block;
+  position: relative;
+  margin: 0px;
+}
+
+.dropbutton {
+  background-color: #FCF3CF;
+  margin-top: 15%;
+  border:none;
+  font-size: 18px;
+  font:inherit;
+  text-align: left;
+  color: black;
+}
+
+.dropcontent{
+  display: none;
+  position: absolute;
+  background-color: #006666;
+  width:100%;
+  margin-left: 10%;
+}
+
+.dropcontent a{
+  display:block;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-left: 15%;
+  font-size: 16px;
+  color: black;
+}
+.dropcontent a:hover{
+  color:#CCFFCC;
+}
+
+.drop:hover .dropcontent {
+  display: block;
+}
+
+.contentpara{
+  margin: 20px;
+}

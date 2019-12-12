@@ -1,0 +1,60 @@
+*{
+  margin: 4px;
+  background-color: #FF4D00;
+}
+
+.top{
+  background-color: #5DADE2;
+  padding: 20px;
+}
+
+.title{
+  background-color: ##5DADE2;
+  text-align: center;
+  color: blue;
+  font-size: 60px;
+}
+
+.logo{
+  float: left;
+  height: 100px;
+  width: 100px;
+  padding-left: 22px;
+  vertical-align: middle;
+  background-color: #rgba(93, 173, 226);3;
+}
+
+.nav{
+  background-color: yellow;
+  border: dotted;
+  padding: 15px;
+  font-size: 20px;
+  color: white;
+  height: 40px;
+}
+
+.about {
+  float:left;
+  padding-left: 50px;
+  background-color: green;
+}
+.home {
+  text-align: center;
+  background-color: green;
+}
+h2:hover{
+  color: blue;
+}
+.moreinfo {
+  float:right;
+  background-color: green;
+}
+
+}
+.pclass{
+  display: block;
+}
+
+.main{
+  text-align: right;
+}
