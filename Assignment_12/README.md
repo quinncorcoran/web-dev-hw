@@ -8,4 +8,4 @@ What is the difference between display: block, display: inline, and display: inl
   use display block inline.
 
 Free Response: Summarize your work cycle for this assignment.
-  This assignment really took a lot out of me, it was really a lot to do 
+  This assignment really took a lot out of me, it was really a lot to do
